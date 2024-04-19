@@ -1,0 +1,16 @@
+.terms-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .terms-title {
+    font-size: 2em;
+    color: #4CAF50;
+  }
+  
+  .terms-text {
+    font-size: 1.2em;
+    color: #333;
+  }

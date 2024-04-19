@@ -1,0 +1,16 @@
+.privacy-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .privacy-title {
+    font-size: 2em;
+    color: #4CAF50;
+  }
+  
+  .privacy-text {
+    font-size: 1.2em;
+    color: #333;
+  }
